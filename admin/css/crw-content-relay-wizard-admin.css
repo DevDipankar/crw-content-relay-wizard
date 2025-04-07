@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .st_pending{
+    background: #ffff64;
+    padding: 5px 10px;
+    border-radius: 12px;
+    border: 1px solid #dbdb76;
+    color: #393939;
+ }
+
+ .st_approved{
+    background: #9ff381;
+    padding: 5px 10px;
+    border-radius: 12px;
+    border: 1px solid #4bc91c;
+    color: #212121;
+}
+ 
